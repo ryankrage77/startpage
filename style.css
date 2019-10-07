@@ -41,7 +41,7 @@ a {
     display: inline;
     text-decoration: none;
     color: white;
-    transition: 0.5s
+    transition: 1s
 }
 
 a:active, a:focus { outline: 0; }
