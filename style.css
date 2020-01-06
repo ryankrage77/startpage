@@ -1,6 +1,6 @@
 #bg {
     position: absolute;
-    background-color: #1e1e1e;
+    background-color: #111;
     width: 100%;
     height: auto;
     bottom: 0px;
@@ -23,7 +23,7 @@
     font-size: 24px;
     }
 
-.left { color: #FF4500 !important; }
+.left { color: #8787D7 !important; }
 
 #home > * {
     display: inline-block;
@@ -48,7 +48,7 @@ a:active, a:focus { outline: 0; }
 
 a:hover {
     transition: 0.1s;
-    color: violet;
+    color: #090;
     text-decoration: underline;
 }
 
